@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kiemdt:kiemdt@develop.nksxe.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
